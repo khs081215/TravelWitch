@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - CanBePickedUp
+  - VirtualCamera
+  - JumpGround
+  - UI
+  - aim
+  - bound
+  - area
+  - ammo
+  - deadcanvas
+  - makeroomportal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blocking
+  - 
+  - Ground
+  - Objects
+  - 
+  - Consumables
+  - Enemyies
+  - Effect
+  - Ammo
+  - EAmmo
+  - nobullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1866491981
+    locked: 0
+  - name: Objects
+    uniqueID: 4220240441
+    locked: 0
+  - name: Blocking
+    uniqueID: 4267457577
+    locked: 0
+  - name: Effect
+    uniqueID: 3597187257
+    locked: 0
+  - name: UI
+    uniqueID: 934917155
+    locked: 0
